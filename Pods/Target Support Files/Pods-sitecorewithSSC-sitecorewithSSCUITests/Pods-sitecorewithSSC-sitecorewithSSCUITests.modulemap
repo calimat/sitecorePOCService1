@@ -1,0 +1,6 @@
+framework module Pods_sitecorewithSSC_sitecorewithSSCUITests {
+  umbrella header "Pods-sitecorewithSSC-sitecorewithSSCUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
